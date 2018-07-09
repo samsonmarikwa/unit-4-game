@@ -15,3 +15,8 @@ This game was developed using HTML5, CSS3, Bootstrap, Javascript and JQuery.
 ## Play
 
 The game can be accessed [Heroku](https://serene-forest-57972.herokuapp.com) on the Portfolio link.
+
+
+## Envisaged Game Improvements
+
+I would want to add an option for the player to chhose complexity level. With this, I would want the clicked crystal to change to another random number between 1 and 12. This will ensure the random number added to the score will always be changing and the user will not know which crystal to keep clicking inorder to win the game.
